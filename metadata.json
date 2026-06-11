@@ -1,0 +1,6 @@
+{
+  "name": "חדשות LIVE",
+  "description": "אפליקציית חדשות ישראלית נוחה עם עדכונים חיים, שמירה לקריאה באופליין, ואזור מונדיאל 2026 מיוחד עם תוצאות ועדכונים בזמן אמת.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
